@@ -9,7 +9,7 @@ using RESTfulAPI.Models;
 
 namespace RESTfulAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/TodoItems")]
     [ApiController]
     public class TodoItemsController : ControllerBase
     {
